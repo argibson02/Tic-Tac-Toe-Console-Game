@@ -587,13 +587,13 @@ namespace consoleTicTacToeGame
                     numOfMoves = 0;
                     playComp = false;
                     compTurn = false;
-                    for (int i = 0; i < board.GetLength(0); i++)
-                    {
-                        for (int j = 0; j < board.GetLength(1); j++)
-                        {
-                            board[i, j] = " ";
-                        }
-                    }
+
+                    string[,] clearBoard = {
+                        { " ", " ", " " },
+                        { " ", " ", " " },
+                        { " ", " ", " " }
+                    };
+                    board = clearBoard;
 
                     HumanOrComp();
                 }

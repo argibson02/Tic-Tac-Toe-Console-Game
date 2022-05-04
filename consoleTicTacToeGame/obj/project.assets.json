@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section7\\consoleTicTacToeGame\\consoleTicTacToeGame\\consoleTicTacToeGame.csproj",
+      "projectUniqueName": "C:\\Users\\alexg\\source\\repos\\c#work\\Tic-Tac-Toe-Console-Game\\consoleTicTacToeGame\\consoleTicTacToeGame.csproj",
       "projectName": "consoleTicTacToeGame",
-      "projectPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section7\\consoleTicTacToeGame\\consoleTicTacToeGame\\consoleTicTacToeGame.csproj",
+      "projectPath": "C:\\Users\\alexg\\source\\repos\\c#work\\Tic-Tac-Toe-Console-Game\\consoleTicTacToeGame\\consoleTicTacToeGame.csproj",
       "packagesPath": "C:\\Users\\alexg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexg\\source\\repos\\c#work\\c-sharp-masterclass\\section7\\consoleTicTacToeGame\\consoleTicTacToeGame\\obj\\",
+      "outputPath": "C:\\Users\\alexg\\source\\repos\\c#work\\Tic-Tac-Toe-Console-Game\\consoleTicTacToeGame\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexg\\AppData\\Roaming\\NuGet\\NuGet.Config",
